@@ -1,2 +1,7 @@
-# concurrency-multithread-app
-A program that simulates a bank transaction system, focusing on how to manage concurrency, deadlock prevention, and inter-process communication (IPC).
+# Concurrency Control in Multi-threaded Applications
+
+Overview: A program that simulates a bank transaction system, focusing on how to manage concurrency, deadlock prevention, and inter-process communication (IPC).
+
+Key Concepts: Concurrency, Deadlocks, Process Synchronization.
+
+Language(s) of choice: C++
