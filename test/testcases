@@ -1,0 +1,11 @@
+Following are the Test cases :
+Test Case 1: Race conditions
+  i. In this test case, we verify the unsynchronized operations which lead to race conditions
+Test Case 2: Synchronization
+  i. In this test case, we verify that the operations are thread-safe using the synchrnoized version
+Test Case 3: Deadlock Detection
+  i. In this test case, we verify that deadlocks are detected and handled
+Test Case 4: Producer-Consumer model
+  i. In this test case, we verify that the producer deposits funds and the consumer withdraws them correctly
+Test Case 5: Stress Test
+  i. In this test case, we verify the system’s stability under high load
