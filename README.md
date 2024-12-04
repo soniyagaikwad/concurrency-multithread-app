@@ -72,3 +72,32 @@ This program simulates a bank transaction system, focusing on key concepts in mu
 
    ```bash
    make
+   ```
+
+### Running the Demos
+
+After building the project, you can run each demo as follows:
+
+- **Concurrency Demo**:  
+  Run the concurrency demo using:
+  ```bash
+  ./demo_concurrency
+  ```
+
+- **Synchronization Demo**:  
+  Run the synchronization demo using:
+  ```bash
+  ./demo_synchronization
+  ```
+
+- **Deadlock Management Demo**:  
+  Run the deadlock management demo using:
+  ```bash
+  ./demo_deadlock_management
+  ```
+
+- **Producer-Consumer Demo**:  
+  Run the producer-consumer demo using:
+  ```bash
+  ./demo_producer_consumer
+  ```
